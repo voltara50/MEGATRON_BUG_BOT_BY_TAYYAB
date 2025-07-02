@@ -37,17 +37,16 @@ pkg install git -y
 pkg install ffmpeg -y
 pkg install libwebp -y
 pkg install imagemagick -y
-termux-setup-storage
 ```
 
 ---
 
 📥 Step 2: Clone This Repo
 
-cd /sdcard
+```
 git clone https://github.com/TAYYAB-Exploits/MEGATRON_BUG_BOT_BY_TAYYAB
 cd MEGATRON_BUG_BOT_BY_TAYYAB
-
+```
 
 ---
 
