@@ -1,5 +1,5 @@
 
-<h1 align="center">🤖✨ 𝗠𝗘𝗚𝗔𝐓𝐑𝐎𝐍- WHATSAPP BOT ✨🤖</h1>
+<h1 align="center">🤖✨ 𝗠𝗘𝗚𝗔𝐓𝐑𝐎𝐍 - WHATSAPP BOT ✨🤖</h1>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9F&center=true&width=440&lines=Created+By+TAYYAB+%E2%9D%A6%EF%B8%8F+✓;Powerful+BugBot+With+Crash+Features;Built+With+🔥+Baileys+API" alt="Typing SVG" />
 </p>
@@ -38,7 +38,7 @@ pkg install ffmpeg -y
 pkg install libwebp -y
 pkg install imagemagick -y
 termux-setup-storage
-
+```
 
 ---
 
@@ -52,27 +52,27 @@ cd MEGATRON_BUG_BOT_BY_TAYYAB
 ---
 
 🧱 Step 3: Install Node Modules
-
+```
 npm install
-
+```
 
 ---
 
 🔐 Step 4: Run The Bot
-
+```
 node index.js
-
+```
 
 ---
 
 ✅ Bonus: For Auto Reload
-
+```
 node --watch index.js
-
+```
 
 ---
 
-✨ Bot Features
+✨ **Bot Features**
 
 Stylish .menu with emojis + auto image
 
