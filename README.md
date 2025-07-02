@@ -1,5 +1,5 @@
 
-<h1 align="center">🤖✨ 𝗠𝗘𝗚𝗔𝐓𝐑𝐎𝐍 𝑩𝑶𝑻 𝗧𝗔𝗬𝗬𝗔𝗕 - WHATSAPP BOT ✨🤖</h1>
+<h1 align="center">🤖✨ 𝗠𝗘𝗚𝗔𝐓𝐑𝐎𝐍 - WHATSAPP BOT ✨🤖</h1>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9F&center=true&width=440&lines=Created+By+TAYYAB+%E2%9D%A6%EF%B8%8F+✓;Powerful+BugBot+With+Crash+Features;Built+With+🔥+Baileys+API" alt="Typing SVG" />
 </p>
