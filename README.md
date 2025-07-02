@@ -102,7 +102,7 @@ Stylish Signature:
 
 ---
 
-⚠️ Disclaimer & License
+⚠️ **Disclaimer & License**
 
 MIT License
 Copyright (c) 2025 TAYYAB
@@ -121,7 +121,7 @@ publish, distribute, and/or sublicense it for educational and research purposes.
 
 ---
 
-🧠 Connect & Contribute
+🧠 **Connect & Contribute**
 
 > 💬 Got an idea? Want to contribute crash techniques or new modules?
 Fork it — Star it — Make PRs!
@@ -132,5 +132,5 @@ Let’s build the ultimate research bot together 💣
 
 ---
 
-> 𝗧𝗔𝗬𝗬𝗔𝗕 ❦️ ✓
+> **𝗧𝗔𝗬𝗬𝗔𝗕 ❦️ ✓**
 “Crash the limits — but never cross the line.”
