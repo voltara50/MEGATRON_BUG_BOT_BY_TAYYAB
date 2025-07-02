@@ -72,7 +72,7 @@ node --watch index.js
 
 ---
 
-✨ Bot Features
+✨ **Bot Features**
 
 Stylish .menu with emojis + auto image
 
