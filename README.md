@@ -48,7 +48,7 @@ y
 
 And press Enter.
 
-This confirms that you agree to install the package and allows the installation process to continue successfully.**
+This confirms that you agree to install the package and allows the installation process to continue successfully.
 
 ---
 
