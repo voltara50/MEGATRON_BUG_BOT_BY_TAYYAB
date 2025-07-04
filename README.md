@@ -21,7 +21,7 @@ I'm always experimenting with new ideas in automation and exploit testing 💻�
 ## 📹 How to Deploy MegaTron Bot
 
 🎥 **Watch full video tutorial here:**  
-[![Deploy MegaTron on Termux](https://img.shields.io/badge/YOUTUBE-WATCH%20NOW-red?logo=youtube)](https://youtu.be/fSxWt660Z2U?si=gSJYdiLIYvOFIvuZ)
+[![Deploy MegaTron on Termux](https://img.shields.io/badge/YOUTUBE-WATCH%20NOW-red?logo=youtube)](https://youtu.be/p13hMgAlznk?si=SWE5K0bFMIha795B)
 
 ---
 
