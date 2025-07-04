@@ -38,6 +38,17 @@ pkg install ffmpeg -y
 pkg install libwebp -y
 pkg install imagemagick -y
 ```
+**⚠️ During the installation of required packages like `imagemagick`, `ffmpeg`, `nodejs`, or others in Termux, you may be prompted with a confirmation message like:
+
+Do you want to continue? [Y/n]
+
+✅ When this appears, simply type:
+
+y
+
+And press Enter.
+
+This confirms that you agree to install the package and allows the installation process to continue successfully.**
 
 ---
 
