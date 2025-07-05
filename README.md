@@ -60,6 +60,11 @@ cd MEGATRON_BUG_BOT_BY_TAYYAB
 ```
 
 ---
+**Now setup YoUr Termux**
+
+```
+termux-setup-storage
+```
 
 🧱 Step 3: Install Node Modules
 ```
